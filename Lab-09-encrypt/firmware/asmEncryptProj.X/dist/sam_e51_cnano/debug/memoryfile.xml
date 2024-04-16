@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/sam_e51_cnano/debug/asmEncryptProj.X.debug.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>1048576</length>
+      <used>8563</used>
+      <free>1040013</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>262144</length>
+      <used>2442</used>
+      <free>259702</free>
+    </memory>
+  </executable>
+</project>
